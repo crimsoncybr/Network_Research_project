@@ -17,11 +17,11 @@ The script provides a set of variables for the user to input, such as the target
 
 ## Installation
 1. Download or clone the script to your Linux system.
-2. Ensure that the script has executable permissions using `chmod +x script_name.sh`.
-3. Execute the script with `sudo ./script_name.sh`.
+2. Ensure that the script has executable permissions using `chmod +x project Remote Control.sh`.
+3. Execute the script with `sudo ./project Remote Control.sh`.
 
 ## Usage
-- Run the script with root privileges (`sudo ./script_name.sh`).
+- Run the script with root privileges (`sudo ./project Remote Control.sh`).
 - Follow the on-screen instructions to:
     - Enter the target address for scanning.
     - View the results of the `nmap` and `whois` scans.
